@@ -144,16 +144,16 @@ Here are some of the projects I have worked on across data analysis, business in
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheOnly1d&show_icons=true&hide_border=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=The0nly1d&show_icons=true&hide_border=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheOnly1d&layout=compact&hide_border=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=The0nly1d&layout=compact&hide_border=true&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: [Adham Ahmed Nabil Deabs](https://www.linkedin.com/in/adhm-ahmed-nabil/)
-- 💻 GitHub: [TheOnly1d](https://github.com/TheOnly1d)
+- 💻 GitHub: [The0nly1d](https://github.com/The0nly1d)
 - 📧 Email: adhmahmed3092004@gmail.com
 
 ---
