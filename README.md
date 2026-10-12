@@ -152,9 +152,10 @@ Here are some of the projects I have worked on across data analysis, business in
 
 ## 📫 Connect With Me
 
+- 📧 Email: adhmahmed3092004@gmail.com
 - 💼 LinkedIn: [Adham Ahmed Nabil Deabs](https://www.linkedin.com/in/adhm-ahmed-nabil/)
 - 💻 GitHub: [The0nly1d](https://github.com/The0nly1d)
-- 📧 Email: adhmahmed3092004@gmail.com
+- 📸 Instagram: [vade3bs](https://www.instagram.com/vade3bs/?__pwa=1).
 
 ---
 
