@@ -2,150 +2,124 @@
 
 ### Business Information Systems Student | Data Analyst | Business Intelligence Enthusiast
 
-I'm passionate about turning raw data into meaningful insights, building interactive dashboards, designing databases, and developing practical digital solutions.
+I turn raw data into clear insights, interactive dashboards, structured databases, and practical digital solutions.
 
-I'm currently studying Business Information Systems (BIS) at Helwan University, where I combine business knowledge with technical skills to solve problems, analyze information, and support better decision-making.
-
-I enjoy working on practical projects that connect data analysis, business intelligence, database management, web development, and digital marketing.
+Currently in my fourth year studying **Business Information Systems (BIS)** at **Helwan University**, I bridge business thinking with technical execution across data analytics, business intelligence, databases, web development, and digital marketing.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Business Information Systems (BIS) student at Helwan University.
-- 📊 Interested in Data Analysis, Business Intelligence, and Data Visualization.
-- 🗄️ Experienced in working with relational databases and database design.
-- 💻 Interested in web development and building functional digital solutions.
-- 📈 Familiar with digital marketing, content strategy, and marketing analytics.
-- 🧹 Interested in data cleaning, transformation, and exploratory data analysis.
-- 🤝 Experienced in customer service, communication, and problem-solving.
-- 🌱 Always learning, improving my technical skills, and working on practical projects.
+- 🎓 Fourth-year **Business Information Systems (BIS)** student at **Helwan University** (GPA: 3.6).
+- 📊 Hands-on experience in **Data Analysis**, **Business Intelligence**, **Excel**, **Power BI**, and **Tableau**.
+- 🐍 Building data science & machine learning foundations via **DEPI (Data Analyst Track)** and the **GCI World Program (Matsuo-Iwasawa Lab)**.
+- 🏦 Completed retail banking & branch operations internships at **National Bank of Egypt (NBE)** and **EGBANK**.
+- 🗄️ Experienced in relational database design, **SQL/MySQL**, **ERD/EERD**, and **3NF normalization**.
+- 💻 Skilled in web development (**HTML5, CSS3, JavaScript, PHP, MySQL**) and digital marketing/content strategy.
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### 📊 Data Analysis & Business Intelligence
-- Microsoft Excel
-- Power BI
-- Power Query
-- DAX
+- Microsoft Excel & Power Query
+- Power BI & DAX
+- Tableau & Data Visualization
 - Data Cleaning & Transformation
 - Exploratory Data Analysis (EDA)
-- Data Visualization
-- Interactive Dashboard Development
-- Business Intelligence
+- Python (NumPy, Pandas, Matplotlib)
 
 ### 🗄️ Databases
-- SQL
-- MySQL
+- SQL & MySQL
 - Relational Database Design
 - ERD & EERD Modeling
-- Database Normalization
+- Database Normalization (3NF)
 - Database Architecture
 
 ### 💻 Web Development
-- HTML5
-- CSS3
-- JavaScript
-- PHP
-- MySQL
+- HTML5, CSS3, JavaScript
+- PHP & MySQL
 
-### 📣 Digital Marketing
-- Content Strategy
+### 📣 Digital Marketing & Content
+- Content Strategy & Creation
 - Audience Segmentation
-- Campaign Planning
-- KPI Tracking
+- Campaign Planning & KPI Tracking
 - Marketing Analytics
-- Content Creation
 
-### 🧰 Tools
+### 🧰 Tools & Productivity
 - Git & GitHub
-- Visual Studio Code
-- XAMPP
-- Microsoft Office
-- PowerPoint
+- Visual Studio Code & XAMPP
+- Microsoft Office (Word, Excel, PowerPoint)
 
 ---
 
 ## 📂 Featured Projects
 
-Here are some of the projects I have worked on across data analysis, business intelligence, databases, web development, and digital marketing.
-
 ### 📊 Data Analysis & Business Intelligence
 
 **1. Superstore Business Intelligence Dashboard**
-- Analyzed business data and presented key performance indicators through an interactive dashboard.
-- Focused on making business performance easier to understand.
+- Analyzed sales and operational performance and built interactive KPIs and visual reports.
+- Focused on turning raw records into clear business decisions.
 
-**2. Olympic Games Data Visualization**
-- Explored Olympic Games data and presented insights through visualizations and dashboards.
-- Focused on identifying patterns and communicating findings clearly.
+**2. Store Sales & BI Analytics**
+- Developed calculated measures, DAX logic, and analytical views to track performance trends.
 
-**3. CA Sales Dashboard**
-- Analyzed sales data and developed visual reports to support business performance analysis.
+**3. Olympic Games Data Visualization**
+- Explored historical sports datasets and presented patterns through clear charts and dashboards.
 
-**4. Data Cleaning & Transformation**
-- Worked on preparing datasets by improving data quality, organizing information, and transforming data for analysis.
+**4. CA Sales Dashboard**
+- Built visual reporting to support sales performance evaluation.
+
+**5. Data Cleaning & Transformation**
+- Prepared and structured datasets by resolving inconsistencies, organizing fields, and formatting data for analysis.
 
 ### 🗄️ Database Design
 
-**5. Enterprise Database Architecture**
-- Designed relational database structures and organized data relationships.
-- Applied ERD/EERD modeling and database normalization concepts, including 3NF.
+**6. Enterprise & E-Commerce Database Architecture**
+- Designed relational schemas, mapped entities, and applied normalization up to **3NF**.
 
 ### 💻 Web Development
 
-**6. Grand Egyptian Museum Web Platform**
-- Developed a web-based project using web development technologies.
-- Focused on presenting information through a structured web interface.
+**7. Grand Egyptian Museum Web Platform**
+- Built a structured web application using **PHP** and **MySQL** with database-backed content.
 
-**7. Interactive Web Portfolio**
-- Created a web portfolio to present projects and demonstrate web development skills.
+**8. Interactive Web Portfolio**
+- Developed a web portfolio to showcase projects and front-end skills.
 
 ### 📣 Digital Marketing
 
-**8. PlateTrip Marketing Plan**
-- Developed a marketing concept for a food-focused brand.
-- Worked on audience segmentation, content planning, and social media strategy.
+**9. PlateTrip Marketing Plan**
+- Created a brand marketing concept covering audience segmentation, content planning, and social media strategy.
 
-**9. Buffalo Burger Content Strategy**
-- Created an independent portfolio project focused on content strategy and marketing ideas.
+**10. Buffalo Burger Content Strategy**
+- Developed an independent portfolio concept focused on content strategy and campaign ideas.
 
-> These projects are presented for portfolio and learning purposes where applicable.
+> *Some projects are presented for academic, training, and portfolio demonstration purposes.*
 
 ---
 
-## 💡 What I'm Interested In
+## 💡 Core Focus Areas
 
-- Data Analysis & Visualization
+- Data Analysis & Interactive Dashboards
 - Business Intelligence & Reporting
-- Dashboard Development
-- Data Cleaning & Transformation
-- SQL & Database Design
-- Business Analysis
-- Web Development
-- Digital Marketing Analytics
+- Data Cleaning, SQL & Database Design
+- Business Analysis & Digital Solutions
 
 ---
 
 ## 🤝 Soft Skills
 
-- Problem-Solving
-- Communication
-- Teamwork
-- Attention to Detail
-- Time Management
-- Adaptability
-- Fast Learning
-- Customer Service
+- Problem-Solving & Analytical Thinking
+- Clear Communication & Customer Service
+- Teamwork & Collaboration
+- Attention to Detail & Time Management
+- Adaptability & Fast Learning
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=The0nly1d&show_icons=true&hide_border=true&theme=tokyonight)
-
+![Adham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=The0nly1d&show_icons=true&hide_border=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=The0nly1d&layout=compact&hide_border=true&theme=tokyonight)
 
 ---
@@ -159,12 +133,8 @@ Here are some of the projects I have worked on across data analysis, business in
 
 ---
 
-## ⚡ A Little About My Approach
+## ⚡ Approach
 
-I believe that good technical work is not just about writing code or creating dashboards. It is about understanding the problem, organizing information, communicating insights clearly, and delivering solutions that serve a real purpose.
-
-I'm always open to learning opportunities, collaborations, and projects where I can apply my skills and continue growing.
-
----
+Good technical work goes beyond writing queries or building charts—it starts with understanding the business problem, structuring the data cleanly, and communicating insights that lead to practical action.
 
 ⭐ Thanks for visiting my profile!
