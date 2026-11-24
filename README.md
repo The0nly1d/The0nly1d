@@ -57,42 +57,48 @@ Currently in my fourth year studying **Business Information Systems (BIS)** at *
 
 ### 📊 Data Analysis & Business Intelligence
 
-**1. Superstore Business Intelligence Dashboard**
+**1. [Superstore Power BI Dashboard](https://github.com/The0nly1d/Superstore-PowerBI-Dashboard)**
 - Analyzed sales and operational performance and built interactive KPIs and visual reports.
 - Focused on turning raw records into clear business decisions.
 
-**2. Store Sales & BI Analytics**
-- Developed calculated measures, DAX logic, and analytical views to track performance trends.
+**2. [Global Public Health Tableau Story](https://github.com/The0nly1d/Global-Public-Health-Tableau-Story)**
+- Explored country public health indicators using geographical maps, trend charts, and interactive dashboard actions in Tableau.
 
-**3. Olympic Games Data Visualization**
-- Explored historical sports datasets and presented patterns through clear charts and dashboards.
+**3. [SuperStore Multi-Page BI Dashboard](https://github.com/The0nly1d/SuperStore-MultiPage-BI-Dashboard)**
+- Built a multi-page business intelligence reporting suite with dynamic KPIs, filters, and analytical breakdowns.
 
-**4. CA Sales Dashboard**
-- Built visual reporting to support sales performance evaluation.
+**4. [CA Sales Performance Power BI Dashboard](https://github.com/The0nly1d/CA-Sales-Performance-PowerBI-Dashboard)**
+- Built visual reporting and performance tracking to support regional sales evaluation.
 
-**5. Data Cleaning & Transformation**
-- Prepared and structured datasets by resolving inconsistencies, organizing fields, and formatting data for analysis.
+**5. [Store BI Analytics Dynamic Dashboards](https://github.com/The0nly1d/Store-BI-Analytics-Dynamic-Dashboards)**
+- Developed calculated measures, DAX logic, and dynamic analytical views to track store performance trends.
+
+**6. [Olympic Medal Analytics Power BI Dashboard](https://github.com/The0nly1d/Olympic-Medal-Analytics-PowerBI-Dashboard)**
+- Explored historical sports datasets and presented medal patterns and comparisons through clear charts and dashboards.
+
+**7. [Enterprise Data Cleaning, Wrangling & ETL](https://github.com/The0nly1d/Enterprise-Data-Cleaning-Wrangling-ETL)**
+- Prepared and structured datasets by resolving inconsistencies, organizing fields, handling transformations, and formatting data for analysis.
 
 ### 🗄️ Database Design
 
-**6. Enterprise & E-Commerce Database Architecture**
-- Designed relational schemas, mapped entities, and applied normalization up to **3NF**.
+**8. [Enterprise E-Commerce Database Architecture (3NF)](https://github.com/The0nly1d/Enterprise-Ecommerce-Database-3NF)**
+- Designed relational schemas, mapped entities (ERD/EERD), and applied normalization up to **3NF**.
 
 ### 💻 Web Development
 
-**7. Grand Egyptian Museum Web Platform**
-- Built a structured web application using **PHP** and **MySQL** with database-backed content.
+**9. [Grand Egyptian Museum Full-Stack Enterprise Platform](https://github.com/The0nly1d/Grand-Egyptian-Museum-Web-Platform)**
+- Built a structured full-stack web application using **PHP** and **MySQL** integrating visitor ticketing, artifact cataloging, and admin CRUD management.
 
-**8. Interactive Web Portfolio**
-- Developed a web portfolio to showcase projects and front-end skills.
+**10. [Interactive Dynamic Web Portfolio Application](https://github.com/The0nly1d/Interactive-Dynamic-Web-Portfolio)**
+- Developed an interactive single-page web portfolio using **HTML5**, **CSS3**, and vanilla **JavaScript** to showcase projects and technical credentials.
 
 ### 📣 Digital Marketing
 
-**9. PlateTrip Marketing Plan**
-- Created a brand marketing concept covering audience segmentation, content planning, and social media strategy.
+**11. [PlateTrip Cuisine Digital Marketing & Commercial Execution Plan](https://github.com/The0nly1d/PlateTrip-Cuisine-Digital-Marketing-Plan)**
+- Designed a digital marketing campaign and commercial execution plan covering audience segmentation, content planning, media spend, CAC projections, and ROI modeling.
 
-**10. Buffalo Burger Content Strategy**
-- Developed an independent portfolio concept focused on content strategy and campaign ideas.
+**12. [Buffalo Burger Content Marketing & Campaign Strategy](https://github.com/The0nly1d/Buffalo-Burger-Content-Campaign-Strategy)**
+- Formulated a content marketing strategy and campaign architecture featuring content calendars, funnel design, and KPI tracking.
 
 > *Some projects are presented for academic, training, and portfolio demonstration purposes.*
 
